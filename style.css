@@ -1,0 +1,22 @@
+#digitCnt{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#btncntrls{
+    text-align: center;
+
+}
+.BTN{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: #ffff;
+    background-color: rgb(202, 28, 228);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.BTN:hover{
+    background-color: rgb(155,0,160);
+}
